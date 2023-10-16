@@ -29,7 +29,7 @@ pip install requests beautifulsoup4
 
 ## How to Use
 
-1. Clone the repository or download the [`script.py`](script.py) file.
+1. Clone the repository or download the [`main.py`](script.py) file.
 
 2. Run the Python script:
 
