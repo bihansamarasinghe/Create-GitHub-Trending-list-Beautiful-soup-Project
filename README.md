@@ -1,7 +1,3 @@
-Sure, here's a GitHub-style README article for the provided Python script:
-
----
-
 # GitHub Trending Repositories Scraper
 
 This Python script scrapes trending repositories from GitHub using BeautifulSoup and requests libraries. It fetches information about trending repositories such as the repository name and link.
@@ -52,5 +48,3 @@ Contributions and feedback are welcome! Feel free to open an issue or submit a p
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Feel free to customize and enhance this README as needed for your specific GitHub repository.
